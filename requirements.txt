@@ -1,0 +1,13 @@
+# Thư viện xử lý dữ liệu và tính toán
+pandas==2.2.2
+numpy
+
+# Thư viện trực quan hóa dữ liệu (Step 4)
+matplotlib
+seaborn
+
+# Thư viện Machine Learning (Step 5 & 6)
+scikit-learn
+
+# Tiện ích bổ sung (tùy chọn nhưng nên có)
+jupyter
