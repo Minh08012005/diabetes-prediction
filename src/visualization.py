@@ -48,7 +48,7 @@ def analyze_1_distribution(df):
 	plt.xlabel('Tuổi')
 	plt.ylabel('Số lượng bệnh nhân')
 
-	# Hiển thị tất cả lên màn hình
+	# Hiển thị tất cả lên màn hình.
 	plt.tight_layout()
 	plt.show()
 

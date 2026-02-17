@@ -30,7 +30,7 @@ def analyze_2_boxplot(df):
 	plt.title('Box Plot: Chỉ số Insulin (Nhiều Outliers)')
 	plt.ylabel('Mức Insulin (mu U/ml')
 
-	# --- HÌNH 2: PREGNANCIES (SỐ LẦN MANG THAI) ---
+	# --- HÌNH 2: PREGNANCIES (SỐ LẦN MANG THAI) ---.
 	plt.subplot(1, 2, 2)
 
 

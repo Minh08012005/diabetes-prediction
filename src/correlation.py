@@ -20,7 +20,7 @@ df = load_data()
 
 
 def analyze_3_correlation(df):
-	# Hàm vẽ Heatmap để soi mối quan hệ giữa các cột số
+	# Hàm vẽ Heatmap để soi mối quan hệ giữa các cột số.
 	plt.figure(figsize=(10, 8))
 
 	# 1. Tính toán ma trận tương quan (chỉ tính trên các cột số)
